@@ -1,7 +1,7 @@
 // Personalise the website here. Replace photo placeholders in the Archives room with your own images.
 export const recipient = 'Aaruuu ♥️';
-export const sender = '[YOUR NAME]';
-export const birthdayDate = '[BIRTHDAY DATE]';
+export const sender = 'JUHIII';
+export const birthdayDate = '9 NOVEMBERR';
 
 export const rooms = [
   { id: 'beginning', number: '01', title: 'The Beginning', subtitle: 'Where the story started.', icon: '✉️' },
@@ -27,4 +27,4 @@ export const archivePhotos = [
   { src: '/images/photo6.jpg', caption: 'One for the memory books, mooch wale uncle' }
 ];
 
-export const finalLetter = `Aaruuu,\n\n[Thatsss it sweety , may you enjoy your bday to the fullesttttt . WE ARE ALL VERY PROUD OF YOU SONAAA , we love u , everyone of us , you are not alone and u r not a waste of space , YOU - yes you are my reason to smile , without u , my world is colourless. words speak less but my eyes always search for u. i am already too deep into your love , i cant untangle u from my blood anymoree , tum meri zindagi ban chuke ho AARUU. and i believe in you . I always will . you got a lot of potential sweetuuu , you got this . please keep smiling , pata nahi kyun pr tumhe udass dekhne se dil tut jta hai. so dontt okayyyy?]\n\nWith all my love,\n${sender} ♡`;
+export const finalLetter = `Aaruuu,\n\nThatsss it sweety , may you enjoy your bday to the fullesttttt . WE ARE ALL VERY PROUD OF YOU SONAAA , we love u , everyone of us , you are not alone and u r not a waste of space , YOU - yes you are my reason to smile , without u , my world is colourless. words speak less but my eyes always search for u. i am already too deep into your love , i cant untangle u from my blood anymoree , tum meri zindagi ban chuke ho AARUU. and i believe in you . I always will . you got a lot of potential sweetuuu , you got this . please keep smiling , pata nahi kyun pr tumhe udass dekhne se dil tut jta hai. so dontt okayyyy?\n\nWith all my love,\n${sender} ♡`;
